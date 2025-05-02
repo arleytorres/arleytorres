@@ -1,27 +1,11 @@
 # Hey, I'm Arley Torres!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5F9EA0&size=22&center=true&vCenter=true&width=1000&lines=FullStack+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5F9EA0&size=22&center=true&vCenter=true&width=1000&lines=Back+End+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ### 👨‍💻 Sobre mim
 
 - 🌍 I'm from Brasil
 - 📚 I'm studying Systems Analysis and Development
-
----
-
-### 🚀 Languages and Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
-</p>
 
 ---
 
