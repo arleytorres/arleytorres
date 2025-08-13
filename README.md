@@ -34,5 +34,5 @@
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arleytorres)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arley_emanuel@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white)](https://linkedin.com/in/arleytorres)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:arley_emanuel@hotmail.com)
