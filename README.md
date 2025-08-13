@@ -1,11 +1,21 @@
 # Hey, I'm Arley Torres!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5F9EA0&size=22&center=true&vCenter=true&width=1000&lines=Back-End+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5F9EA0&size=22&center=true&vCenter=true&width=1000&lines=Back-End+Developer;.NET+Framework;.NET+9.0)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me
 
 - 🌍 I'm from Brasil
 - 📚 I'm studying Systems Analysis and Development
+
+### 🛠️ Technologies
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
