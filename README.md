@@ -1,6 +1,6 @@
 # Hey, I'm Arley Torres!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5F9EA0&size=22&center=true&vCenter=true&width=1000&lines=Back-End+Developer;.NET+Framework;.NET+9.0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=85EA2D&size=22&center=true&vCenter=true&width=1000&lines=Back-End+Developer;.NET+Framework;.NET+9.0)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me
 
