@@ -36,3 +36,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white)](https://linkedin.com/in/arleytorres)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:arley_emanuel@hotmail.com)
+<img src="https://komarev.com/ghpvc/?username=arleytorres&style=for-the-badge" alt="profile views" />
