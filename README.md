@@ -1,6 +1,6 @@
 # Hey, I'm Arley Torres!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=85EA2D&size=25&center=true&vCenter=true&width=1000&lines=Back-End+Developer;.NET+Framework;.NET+9.0)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=85EA2D&size=25&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;.NET+Framework;.NET+9.0;Blazor)
 
 ### 👨‍💻 About Me
 
@@ -11,6 +11,7 @@
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
