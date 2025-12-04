@@ -24,15 +24,6 @@
 
 ---
 
-### 📊 Statistics
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=arleytorres&show_icons=true&theme=radical" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arleytorres&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=inspire&logoColor=white)](https://linkedin.com/in/arleytorres)
