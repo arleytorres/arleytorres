@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 
 - 🌍 I'm from Brasil
-- 📚 I'm studying Systems Analysis and Development
+- 💻 Mid-Level Developer Analyst
 
 ### 🛠️ Technologies
 
